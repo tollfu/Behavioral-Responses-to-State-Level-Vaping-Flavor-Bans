@@ -8,6 +8,8 @@ This project evaluates the causal impact of state-level e-cigarette flavor bans 
 
 The analysis replicates and extends prior literature by incorporating newly available years of data, introducing mental health heterogeneity, and implementing multiple robustness checks.
 
+[View the project journal](Research Paper-To What ENDS-Shaoyi Yu.pdf)
+
 ## Research Question
 
 Do state-level ENDS flavor bans reduce vaping, and do they generate unintended spillover effects to other substances across different mental health subgroups?
@@ -18,7 +20,7 @@ Do state-level ENDS flavor bans reduce vaping, and do they generate unintended s
 - Covid Deaths by State/Month
 - Unemployment Rate by State/Month 
 - Combustible Cigarette Tax by State/Month
-- 
+  
 ## Methodology
 
 The empirical strategy includes:
